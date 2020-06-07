@@ -75,6 +75,7 @@ TWData* _Nonnull TWAnyAddressData(struct TWAnyAddress* _Nonnull address) {
     case TWCoinTypeBinance:
     case TWCoinTypeCosmos:
     case TWCoinTypeKava:
+    case TWCoinTypeBandChain:
     case TWCoinTypeTerra:
     case TWCoinTypeIoTeX: {
         Cosmos::Address addr;

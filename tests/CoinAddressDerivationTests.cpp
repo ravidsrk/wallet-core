@@ -8,6 +8,7 @@
 #include "HexCoding.h"
 
 #include <gtest/gtest.h>
+#include <iostream>
 
 namespace TW {
 
